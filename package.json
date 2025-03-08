@@ -1,14 +1,14 @@
 
 
 {
-  "name": "malvin",
+  "name": "tecboi",
   "version": "2.0.1",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "A WhatsApp Bot Created By Nephias Tekere",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name malvin",
-    "stop": "pm2 stop malvin",
-    "restart": "pm2 restart malvin"
+    "start": "pm2 start index.js --deep-monitoring --attach --name tecboi",
+    "stop": "pm2 stop tecboi",
+    "restart": "pm2 restart tecboi"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
